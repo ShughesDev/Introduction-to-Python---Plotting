@@ -30,3 +30,4 @@ data = np.array(raw_data) #trun raw data into numpy array
 print(data[0]) #inspect 1st line (column labels)
 
 print(data[1]) #inspect 2nd line (1st row of data)
+
